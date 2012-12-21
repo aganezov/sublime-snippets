@@ -4,7 +4,7 @@ INSTALLATION
 
 download sals.zip file and extract it into Packages folder inside Sublime Text 2 resources
 
-DESCRIPTION:
+<h1>DESCRIPTION:</h1>
 
 all snippets work as tab-trigger operations.
     
