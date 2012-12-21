@@ -1,10 +1,10 @@
-<head>Snippets to work with Sublime Text 2 editor on LaTeX documents</head>
+<h1>Snippets to work with Sublime Text 2 editor on LaTeX documents</h1>
 
-<h1>INSTALLATION</h1>
+<h2>INSTALLATION</h2>
 
 download sals.zip file and extract it into Packages folder inside Sublime Text 2 resources
 
-<h1>DESCRIPTION:</h1>
+<h2>DESCRIPTION:</h2>
 
 all snippets work as tab-trigger operations.
     
