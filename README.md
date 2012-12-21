@@ -9,7 +9,7 @@ download sals.zip file and extract it into Packages folder inside Sublime Text 2
 all snippets work as tab-trigger operations.
     
     List:
-        <b>eq*</b> -- inserts equation* environment, an unnumbered equation (requires amsmath package)
+        eq* -- inserts equation* environment, an unnumbered equation (requires amsmath package)
         footnote -- inserts \footnote{} command with focus between braces
         minipage -- inserts nimipage environment with first focus on position option, second on width argument
         newcommand -- inserts \newcommand{}[0]{} command with focus first between first braces,
