@@ -1,6 +1,6 @@
 Snippets to work with Sublime Text 2 editor on LaTeX documents
 
-INSTALLATION
+<h1>INSTALLATION</h1>
 
 download sals.zip file and extract it into Packages folder inside Sublime Text 2 resources
 
