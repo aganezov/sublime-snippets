@@ -1,4 +1,4 @@
-<center><h1>Snippets to work with Sublime Text 2 editor on LaTeX documents</h1></center>
+<center><h1>Snippets for Sublime Text 2 to work in LaTeX</h1></center>
 
 <h2>INSTALLATION</h2>
 
