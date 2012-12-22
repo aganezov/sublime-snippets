@@ -1,15 +1,16 @@
 <snippet>
 	<content><![CDATA[
-\\documentclass{article}
+\\documentclass[${1:a4paper},${2:11}pt,${3:oncolumn}]{article}
 \\usepackage[utf8]{inputenc}
 \\usepackage[english,russian]{babel}
 \\usepackage{subfigure}
 \\usepackage{fullpage}
-\\usepackage{amsmath, amsthm, amsfonts}
+\\usepackage{amsmath, amsthm, amsfonts, amssymb}
+\\usepackage{cite}
 \\usepackage{tikz}
 
-\\author{$1}
-\\title{$2}
+\\author{$4}
+\\title{$5}
 
 \\begin{document}
 	\\maketitle
